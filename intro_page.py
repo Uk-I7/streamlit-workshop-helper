@@ -58,7 +58,7 @@ st.markdown(
     }
     .footer {
         position: fixed;
-        bottom: 30px;
+        bottom: 40px;
         right: 20px;
         text-align: right;
         font-size: 28px;
