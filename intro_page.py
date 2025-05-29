@@ -2,7 +2,7 @@ import streamlit as st
 import base64
 
 # 페이지 기본 설정
-st.set_page_config(page_title="자기소개 도우미 ver 1.0", layout="centered", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="자기소개 도우미 ver 1.1", layout="centered", initial_sidebar_state="collapsed")
 
 # base64 이미지 인코딩 함수
 def get_image_base64(image_path):
